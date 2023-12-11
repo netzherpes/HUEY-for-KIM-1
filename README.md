@@ -1,6 +1,6 @@
 # HUEY-for-KIM-1
 a scientific calculator for the KIM-1 from Kilobaud magazine
----
+ 
 
  KIM-1 TTY I/O patch for 'HUEY', a scientific calculator for 6502
  by Don Rindsberg, in KILOBAUD magazine, Dec. 1977, pgs. 94-99
